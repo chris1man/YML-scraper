@@ -10,22 +10,26 @@ from settings import (
 
 
 def get_product_links():
-    response = requests.get(CATALOG_URL, headers=HEADERS)
+    response = requests.get(CATALOG_URL, headers=HEADERS, timeout=20)
     response.encoding = "utf-8"
 
     soup = BeautifulSoup(response.text, "lxml")
-    links = []
 
-    for item in soup.select(".ty-grid-list__item a[href]"):
-        href = item.get("href")
+    links = set()
+
+    for a in soup.select(".ty-grid-list__item-name a[href]"):
+        href = a.get("href", "").strip()
+
+        if not href:
+            continue
 
         if href.startswith("/"):
             href = BASE_URL + href
 
-        if href.startswith(BASE_URL):
-            links.append(href)
+        if href.startswith(BASE_URL) and len(href) > 40:
+            links.add(href)
 
-    return list(set(links))
+    return list(links)
 
 
 def detect_category_id(url):
@@ -39,20 +43,28 @@ def detect_category_id(url):
 
 
 def parse_product(url):
-    response = requests.get(url, headers=HEADERS)
+    response = requests.get(url, headers=HEADERS, timeout=20)
     response.encoding = "utf-8"
-
     soup = BeautifulSoup(response.text, "lxml")
 
     name_tag = soup.select_one("h1.ty-product-block-title")
-    name = name_tag.text.strip() if name_tag else "Без названия"
+    if not name_tag:
+        print("⛔ Не товар:", url)
+        return None
 
+    name = name_tag.text.strip()
+    if len(name) < 5:
+        print("⛔ Плохое имя:", url)
+        return None
+
+    # Цена
     if FORCE_PRICE_ONE:
         price = "1"
     else:
         price_tag = soup.select_one("span.ty-price-num")
         price = price_tag.text.strip() if price_tag else "1"
 
+    # Картинка
     image_tag = soup.select_one("img.ty-pict")
     image = image_tag["src"] if image_tag else ""
 

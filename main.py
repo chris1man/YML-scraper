@@ -9,8 +9,9 @@ products = []
 
 for link in links:
     print("Парсим:", link)
-    products.append(parse_product(link))
-
+    product = parse_product(link)
+    if product:
+        products.append(product)
 print("📝 Генерируем XML...")
 generate_yml(products)
 print("✅ Готово! Файл feed.xml создан")
