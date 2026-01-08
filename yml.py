@@ -16,7 +16,7 @@ def generate_yml(products):
     SubElement(shop, "name").text = SHOP_NAME
     SubElement(shop, "url").text = SHOP_URL
 
-    # 🔥 ОБЯЗАТЕЛЬНО ДЛЯ ЯНДЕКС БИЗНЕС
+    # Категории
     categories_el = SubElement(shop, "categories")
     for cid, cname in CATEGORIES.items():
         cat = SubElement(categories_el, "category", id=str(cid))
@@ -40,8 +40,12 @@ def generate_yml(products):
         SubElement(offer, "url").text = product["url"]
         SubElement(offer, "description").text = product["description"]
 
-    ElementTree(yml).write(
-        "feed.yml",
-        encoding="utf-8",
-        xml_declaration=True
-    )
+    xml_bytes = ElementTree(yml)
+
+    with open("feed.yml", "wb") as f:
+        xml_bytes.write(
+            f,
+            encoding="utf-8",
+            xml_declaration=True,
+            short_empty_elements=False
+        )
