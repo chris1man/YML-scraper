@@ -2,7 +2,13 @@
 
 import requests
 from bs4 import BeautifulSoup
-from settings import BASE_URL, CATALOG_URL, HEADERS, DEFAULT_CATEGORY_ID
+from settings import (
+    BASE_URL,
+    CATALOG_URL,
+    HEADERS,
+    DEFAULT_CATEGORY_ID,
+    FORCE_PRICE_ONE
+)
 
 
 def get_product_links():
@@ -28,11 +34,11 @@ def get_product_links():
 
 def detect_category_id_by_url(url):
     if "/cvety-ohapkoy/" in url:
-        return 3   # Охапки цветов
+        return 3
     if "/rozy/" in url:
-        return 2   # Розы
+        return 2
     if "/bukety/" in url:
-        return 1   # Букеты
+        return 1
 
     return DEFAULT_CATEGORY_ID
 
@@ -41,22 +47,30 @@ def parse_product(url):
     response = requests.get(url, headers=HEADERS)
     soup = BeautifulSoup(response.text, "lxml")
 
+    # Название
     name_tag = soup.select_one("h1.ty-product-block-title")
     name = name_tag.text.strip() if name_tag else "Без названия"
 
-    price_tag = soup.select_one("span.ty-price-num")
-    price = (
-        price_tag.text
-        .replace("\xa0", "")
-        .replace(" ", "")
-        .replace("₽", "")
-    ) if price_tag else "1"
+    # Цена
+    if FORCE_PRICE_ONE:
+        price = "1"
+    else:
+        price_tag = soup.select_one("span.ty-price-num")
+        price = (
+            price_tag.text
+            .replace("\xa0", "")
+            .replace(" ", "")
+            .replace("₽", "")
+        ) if price_tag else "1"
 
+    # Картинка
     image_tag = soup.select_one("img.ty-pict")
     image = image_tag["src"] if image_tag else ""
 
+    # Категория
     category_id = detect_category_id_by_url(url)
 
+    # Description
     description = f"{name}. Свежие цветы с доставкой по Томску."
 
     return {

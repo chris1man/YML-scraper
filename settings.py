@@ -10,6 +10,8 @@ SHOP_NAME = "MAKI"
 SHOP_URL = "https://maki-tomsk.ru"
 CURRENCY = "RUB"
 
+FORCE_PRICE_ONE = True
+
 CATEGORIES = {
     1: "Букеты",
     2: "Розы",
@@ -18,3 +20,4 @@ CATEGORIES = {
 }
 
 DEFAULT_CATEGORY_ID = 4
+    

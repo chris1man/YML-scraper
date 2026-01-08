@@ -2,7 +2,10 @@ name: Update YML feed
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # раз в 6 часов
+    - cron: "0 */6 * * *"   # каждые 6 часов
+  push:
+    branches:
+      - main
   workflow_dispatch:
 
 jobs:
@@ -10,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Setup Python
@@ -21,10 +24,10 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Generate feed
+      - name: Generate YML feed
         run: python main.py
 
-      - name: Commit feed.yml
+      - name: Commit and push feed.yml
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
