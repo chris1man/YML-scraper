@@ -1,22 +1,18 @@
-# yml.py
-
 from xml.etree.ElementTree import Element, SubElement, ElementTree
 from datetime import datetime
 from settings import SHOP_NAME, SHOP_URL, CURRENCY, CATEGORIES
 
 
 def generate_yml(products):
-    yml = Element(
+    root = Element(
         "yml_catalog",
         date=datetime.now().strftime("%Y-%m-%d %H:%M")
     )
 
-    shop = SubElement(yml, "shop")
-
+    shop = SubElement(root, "shop")
     SubElement(shop, "name").text = SHOP_NAME
     SubElement(shop, "url").text = SHOP_URL
 
-    # Категории
     categories_el = SubElement(shop, "categories")
     for cid, cname in CATEGORIES.items():
         cat = SubElement(categories_el, "category", id=str(cid))
@@ -40,12 +36,11 @@ def generate_yml(products):
         SubElement(offer, "url").text = product["url"]
         SubElement(offer, "description").text = product["description"]
 
-    xml_bytes = ElementTree(yml)
+    tree = ElementTree(root)
 
-    with open("feed.yml", "wb") as f:
-        xml_bytes.write(
+    with open("feed.xml", "wb") as f:
+        tree.write(
             f,
             encoding="utf-8",
-            xml_declaration=True,
-            short_empty_elements=False
+            xml_declaration=True
         )

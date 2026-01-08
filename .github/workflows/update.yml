@@ -1,11 +1,10 @@
-name: Update YML feed
+name: Update XML feed
 
 on:
-  schedule:
-    - cron: "0 */6 * * *"   # каждые 6 часов
   push:
-    branches:
-      - main
+    branches: [main]
+  schedule:
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
@@ -13,24 +12,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Install dependencies
-        run: pip install -r requirements.txt
+      - run: pip install -r requirements.txt
 
-      - name: Generate YML feed
-        run: python main.py
+      - run: python main.py
 
-      - name: Commit and push feed.yml
-        run: |
+      - run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add feed.yml
-          git commit -m "Update feed.yml" || echo "No changes"
+          git add feed.xml
+          git commit -m "Update feed.xml" || echo "No changes"
           git push
