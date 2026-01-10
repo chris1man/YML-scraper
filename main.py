@@ -1,17 +1,24 @@
-from scraper import get_product_links, parse_product
-from yml import generate_yml
+from scraper import parse_products
+from yml import generate_xml
+from settings import OUTPUT_FILE
 
-print("🔍 Получаем список товаров...")
-links = get_product_links()
-print(f"Найдено товаров: {len(links)}")
 
-products = []
+def main():
+    print("🔍 Парсим главную страницу MAKI...")
 
-for link in links:
-    print("Парсим:", link)
-    product = parse_product(link)
-    if product:
-        products.append(product)
-print("📝 Генерируем XML...")
-generate_yml(products)
-print("✅ Готово! Файл feed.xml создан")
+    products, categories = parse_products()
+
+    print(f"📦 Категорий: {len(categories)}")
+    print(f"🛍 Товаров: {len(products)}")
+
+    if not products:
+        print("❌ Товары не найдены — проверь HTML")
+        return
+
+    generate_xml(products, categories, OUTPUT_FILE)
+
+    print(f"✅ XML-фид создан: {OUTPUT_FILE}")
+
+
+if __name__ == "__main__":
+    main()

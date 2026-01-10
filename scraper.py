@@ -1,81 +1,76 @@
 import requests
 from bs4 import BeautifulSoup
-from settings import (
-    BASE_URL,
-    CATALOG_URL,
-    HEADERS,
-    FORCE_PRICE_ONE,
-    DEFAULT_CATEGORY_ID
-)
+from settings import BASE_URL, HEADERS
 
 
-def get_product_links():
-    response = requests.get(CATALOG_URL, headers=HEADERS, timeout=20)
-    response.encoding = "utf-8"
+def get_html():
+    r = requests.get(BASE_URL, headers=HEADERS, timeout=20)
+    r.encoding = "utf-8"
+    return r.text
 
-    soup = BeautifulSoup(response.text, "lxml")
 
-    links = set()
+def parse_products():
+    html = get_html()
+    soup = BeautifulSoup(html, "lxml")
 
-    for a in soup.select(".ty-grid-list__item-name a[href]"):
-        href = a.get("href", "").strip()
+    categories = {}
+    products = []
 
-        if not href:
+    category_id_counter = 1
+    product_id_counter = 1
+
+    containers = soup.select(".ty-mainbox-simple-container")
+
+    for container in containers:
+        h2 = container.select_one(".ty-mainbox-simple-title")
+        body = container.select_one(".ty-mainbox-simple-body")
+
+        if not h2 or not body:
             continue
 
-        if href.startswith("/"):
-            href = BASE_URL + href
+        category_name = h2.get_text(strip=True)
 
-        if href.startswith(BASE_URL) and len(href) > 40:
-            links.add(href)
-
-    return list(links)
+        if not category_name:
+            continue
 
 
-def detect_category_id(url):
-    if "/cvety-ohapkoy/" in url:
-        return 3
-    if "/rozy/" in url:
-        return 2
-    if "/bukety/" in url:
-        return 1
-    return DEFAULT_CATEGORY_ID
+        items = body.select(".ty-grid-list__item .product-title")
 
+        if not items:
+            continue
 
-def parse_product(url):
-    response = requests.get(url, headers=HEADERS, timeout=20)
-    response.encoding = "utf-8"
-    soup = BeautifulSoup(response.text, "lxml")
+        if category_name not in categories:
+            categories[category_name] = category_id_counter
+            category_id_counter += 1
 
-    name_tag = soup.select_one("h1.ty-product-block-title")
-    if not name_tag:
-        print("⛔ Не товар:", url)
-        return None
+        category_id = categories[category_name]
 
-    name = name_tag.text.strip()
-    if len(name) < 5:
-        print("⛔ Плохое имя:", url)
-        return None
+        product_blocks = body.select(".ty-grid-list__item")
 
-    # Цена
-    if FORCE_PRICE_ONE:
-        price = "1"
-    else:
-        price_tag = soup.select_one("span.ty-price-num")
-        price = price_tag.text.strip() if price_tag else "1"
+        for item in product_blocks:
+            title_el = item.select_one(".product-title")
+            link_el = item.select_one(".product-title[href]")
+            img_el = item.select_one("img")
 
-    # Картинка
-    image_tag = soup.select_one("img.ty-pict")
-    image = image_tag["src"] if image_tag else ""
+            if not title_el or not link_el:
+                continue
 
-    description = f"{name}. Свежие цветы с доставкой по Томску."
+            name = title_el.get_text(strip=True)
+            url = link_el.get("href", "").strip()
+            picture = img_el.get("src", "").strip() if img_el else ""
 
-    return {
-        "name": name,
-        "price": price,
-        "url": url,
-        "image": image,
-        "category_id": detect_category_id(url),
-        "description": description,
-        "available": "true"
-    }
+            if not name or not url:
+                continue
+
+            products.append({
+                "id": product_id_counter,
+                "name": name,
+                "url": url,
+                "picture": picture,
+                "category_id": category_id,
+                "description": f"{name}. Свежие цветы с доставкой по Томску."
+            })
+
+            product_id_counter += 1
+
+    return products, categories
