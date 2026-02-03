@@ -101,6 +101,15 @@
         <description>Букет из 15 роз Shangri La в оформлении. Свежие цветы с доставкой по Томску.</description>
       </offer>
       <offer id="11" available="true">
+        <name>Букет из 15 красных роз 70 см</name>
+        <price>1</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/26/IMG_7013.jpg.webp</picture>
+        <url>https://maki-tomsk.ru/cvety/bukety-iz-roz/buket-iz-15-krasnyh-roz-70-sm/</url>
+        <description>Букет из 15 красных роз 70 см. Свежие цветы с доставкой по Томску.</description>
+      </offer>
+      <offer id="12" available="true">
         <name>Букет из 101 розы Deep Purple в оформлении</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
@@ -109,7 +118,7 @@
         <url>https://maki-tomsk.ru/cvety/bukety-iz-roz/buket-iz-101-rozy-deep-purple-v-oformlenii/</url>
         <description>Букет из 101 розы Deep Purple в оформлении. Свежие цветы с доставкой по Томску.</description>
       </offer>
-      <offer id="12" available="true">
+      <offer id="13" available="true">
         <name>Букет из 21 розовой розы Hermosa с эвкалиптом</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
@@ -118,7 +127,7 @@
         <url>https://maki-tomsk.ru/cvety/bukety-iz-roz/buket-iz-21-rozovoy-rozy-hermosa-s-evkaliptom/</url>
         <description>Букет из 21 розовой розы Hermosa с эвкалиптом. Свежие цветы с доставкой по Томску.</description>
       </offer>
-      <offer id="13" available="true">
+      <offer id="14" available="true">
         <name>Букет из 25 розовых роз Esperance в нежном оформлении</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
@@ -126,15 +135,6 @@
         <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/17/IMG_8935.jpg.webp</picture>
         <url>https://maki-tomsk.ru/cvety/bukety-iz-roz/buket-iz-25-rozovyh-roz-esperance-v-nezhnom-oformlenii/</url>
         <description>Букет из 25 розовых роз Esperance в нежном оформлении. Свежие цветы с доставкой по Томску.</description>
-      </offer>
-      <offer id="14" available="true">
-        <name>Букет из 25 красных роз в оформлении</name>
-        <price>1</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>2</categoryId>
-        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/26/IMG_0990.jpg.webp</picture>
-        <url>https://maki-tomsk.ru/cvety/bukety-iz-roz/buket-iz-25-krasnyh-roz-v-oformlenii-ru/</url>
-        <description>Букет из 25 красных роз в оформлении. Свежие цветы с доставкой по Томску.</description>
       </offer>
       <offer id="15" available="true">
         <name>Букет из 35 малиновых роз Full monty в оформлении</name>
