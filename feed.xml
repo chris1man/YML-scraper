@@ -83,6 +83,15 @@
         <description>Букет из 15 розово-персиковых роз в оформлении. Свежие цветы с доставкой по Томску.</description>
       </offer>
       <offer id="9" available="true">
+        <name>Букет из 19 кремовых пионовидных роз в оформлении</name>
+        <price>1</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/29/IMG_0305.jpg.webp</picture>
+        <url>https://maki-tomsk.ru/cvety/bukety-iz-roz/buket-iz-19-kremovyh-pionovidnyh-roz-v-oformlenii/</url>
+        <description>Букет из 19 кремовых пионовидных роз в оформлении. Свежие цветы с доставкой по Томску.</description>
+      </offer>
+      <offer id="10" available="true">
         <name>Букет из 15 роз Frutteto в оформлении</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
@@ -90,15 +99,6 @@
         <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/27/IMG_9408.jpg.webp</picture>
         <url>https://maki-tomsk.ru/cvety/bukety-iz-roz/buket-iz-15-roz-frutteto-v-oformlenii/</url>
         <description>Букет из 15 роз Frutteto в оформлении. Свежие цветы с доставкой по Томску.</description>
-      </offer>
-      <offer id="10" available="true">
-        <name>Букет из 15 роз Shangri La в оформлении</name>
-        <price>1</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>2</categoryId>
-        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/27/IMG_7496.jpg.webp</picture>
-        <url>https://maki-tomsk.ru/cvety/bukety-iz-roz/buket-iz-15-roz-shangri-la-v-oformlenii/</url>
-        <description>Букет из 15 роз Shangri La в оформлении. Свежие цветы с доставкой по Томску.</description>
       </offer>
       <offer id="11" available="true">
         <name>Букет из 15 красных роз 70 см</name>
