@@ -146,49 +146,49 @@
         <description>Букет из 25 роз SILANTOI в оформлении. Свежие цветы с доставкой по Томску.</description>
       </offer>
       <offer id="16" available="true">
-        <name>Охапка кустовых хризантем Chic</name>
+        <name>Охапка белых ранункулюсов</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
-        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/28/IMG_3614.JPG.webp</picture>
-        <url>https://maki-tomsk.ru/cvety-ohapkoy/ohapka-kustovyh-hrizantem-chic-ru/</url>
-        <description>Охапка кустовых хризантем Chic. Свежие цветы с доставкой по Томску.</description>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/29/IMG_2643.jpg.webp</picture>
+        <url>https://maki-tomsk.ru/cvety-ohapkoy/ohapka-belyh-ranunkulyusov-ru/</url>
+        <description>Охапка белых ранункулюсов. Свежие цветы с доставкой по Томску.</description>
       </offer>
       <offer id="17" available="true">
-        <name>Охапка гортензий Verena Purple</name>
+        <name>Охапка пионовидных тюльпанов Columbus</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
-        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/28/IMG_6492.JPG.webp</picture>
-        <url>https://maki-tomsk.ru/cvety-ohapkoy/ohapka-gortenziy-verena-purple/</url>
-        <description>Охапка гортензий Verena Purple. Свежие цветы с доставкой по Томску.</description>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/29/IMG_2646.jpg.webp</picture>
+        <url>https://maki-tomsk.ru/cvety-ohapkoy/ohapka-pionovidnyh-tyulpanov-columbus/</url>
+        <description>Охапка пионовидных тюльпанов Columbus. Свежие цветы с доставкой по Томску.</description>
       </offer>
       <offer id="18" available="true">
-        <name>Охапка гвоздик Marty</name>
+        <name>Охапка нежно-розовых ранункулюсов</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
-        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/28/IMG_3675.JPG.webp</picture>
-        <url>https://maki-tomsk.ru/cvety-ohapkoy/ohapka-gvozdik-marty-ru/</url>
-        <description>Охапка гвоздик Marty. Свежие цветы с доставкой по Томску.</description>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/29/IMG_2633.jpg.webp</picture>
+        <url>https://maki-tomsk.ru/cvety-ohapkoy/ohapka-nezhno-rozovyh-ranunkulyusov/</url>
+        <description>Охапка нежно-розовых ранункулюсов. Свежие цветы с доставкой по Томску.</description>
       </offer>
       <offer id="19" available="true">
-        <name>Охапка пионовидных оранжевых тюльпанов</name>
+        <name>Охапка пионовидных сиреневых тюльпанов</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
-        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/29/IMG_0126.jpg.webp</picture>
-        <url>https://maki-tomsk.ru/cvety-ohapkoy/ohapka-pionovidnyh-oranzhevyh-tyulpanov/</url>
-        <description>Охапка пионовидных оранжевых тюльпанов. Свежие цветы с доставкой по Томску.</description>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/29/IMG_2606.jpg.webp</picture>
+        <url>https://maki-tomsk.ru/cvety-ohapkoy/ohapka-pionovidnyh-sirenevyh-tyulpanov/</url>
+        <description>Охапка пионовидных сиреневых тюльпанов. Свежие цветы с доставкой по Томску.</description>
       </offer>
       <offer id="20" available="true">
-        <name>Охапка гвоздик Novia Peach</name>
+        <name>Охапка кремовых ранункулюсов</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
-        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/28/IMG_4823.JPG.webp</picture>
-        <url>https://maki-tomsk.ru/cvety-ohapkoy/ohapka-gvozdik-novia-peach-ru/</url>
-        <description>Охапка гвоздик Novia Peach. Свежие цветы с доставкой по Томску.</description>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/29/IMG_2613.jpg.webp</picture>
+        <url>https://maki-tomsk.ru/cvety-ohapkoy/ohapka-kremovyh-ranunkulyusov-ru/</url>
+        <description>Охапка кремовых ранункулюсов. Свежие цветы с доставкой по Томску.</description>
       </offer>
       <offer id="21" available="true">
         <name>Букет из 7 белых ранункулюсов и эвкалипта с оформлением</name>
@@ -209,15 +209,6 @@
         <description>Сборный букет &quot;Баланс чувств&quot;. Свежие цветы с доставкой по Томску.</description>
       </offer>
       <offer id="23" available="true">
-        <name>Дуобукет из гиацинтов и скиммии</name>
-        <price>1</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>4</categoryId>
-        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/22/IMG_2611.jpg.webp</picture>
-        <url>https://maki-tomsk.ru/bukety/duobukety/duobuket-iz-giacintov-i-skimmii/</url>
-        <description>Дуобукет из гиацинтов и скиммии. Свежие цветы с доставкой по Томску.</description>
-      </offer>
-      <offer id="24" available="true">
         <name>Букет из одиночных хризантем и эустом &quot;Воздушная линия&quot;</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
@@ -225,6 +216,15 @@
         <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/29/IMG_1660.jpg.webp</picture>
         <url>https://maki-tomsk.ru/bukety/duobukety/buket-iz-odinochnyh-hrizantem-i-eustom-vozdushnaya-liniya/</url>
         <description>Букет из одиночных хризантем и эустом &quot;Воздушная линия&quot;. Свежие цветы с доставкой по Томску.</description>
+      </offer>
+      <offer id="24" available="true">
+        <name>Букет из гиацинтов и скиммии &quot;Рассветный туман&quot;</name>
+        <price>1</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/29/IMG_6243.jpg.webp</picture>
+        <url>https://maki-tomsk.ru/bukety/duobukety/buket-iz-giacintov-i-skimmii-rassvetnyy-tuman/</url>
+        <description>Букет из гиацинтов и скиммии &quot;Рассветный туман&quot;. Свежие цветы с доставкой по Томску.</description>
       </offer>
       <offer id="25" available="true">
         <name>Сборный букет &quot;Глубина момента&quot;</name>
