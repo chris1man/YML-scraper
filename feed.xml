@@ -128,6 +128,15 @@
         <description>Букет из 9 кустовых роз Lady Bombastic в оформлении. Свежие цветы с доставкой по Томску.</description>
       </offer>
       <offer id="14" available="true">
+        <name>Букет из 15 зеленых пионовидных роз с эвкалиптом в оформлении</name>
+        <price>1</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/21/IMG_5622.jpg.webp</picture>
+        <url>https://maki-tomsk.ru/cvety/bukety-iz-roz/buket-iz-15-zelenyh-pionovidnyh-roz-s-evkaliptom-v-oformlenii/</url>
+        <description>Букет из 15 зеленых пионовидных роз с эвкалиптом в оформлении. Свежие цветы с доставкой по Томску.</description>
+      </offer>
+      <offer id="15" available="true">
         <name>Букет из 25 розовых роз Esperance в нежном оформлении</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
@@ -136,7 +145,7 @@
         <url>https://maki-tomsk.ru/cvety/bukety-iz-roz/buket-iz-25-rozovyh-roz-esperance-v-nezhnom-oformlenii/</url>
         <description>Букет из 25 розовых роз Esperance в нежном оформлении. Свежие цветы с доставкой по Томску.</description>
       </offer>
-      <offer id="15" available="true">
+      <offer id="16" available="true">
         <name>Букет из 7 кустовых роз Misty Bubbles с эвкалиптом</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
@@ -145,7 +154,7 @@
         <url>https://maki-tomsk.ru/cvety/bukety-iz-kustovyh-roz/buket-iz-7-kustovyh-roz-misty-bubbles-s-evkaliptom/</url>
         <description>Букет из 7 кустовых роз Misty Bubbles с эвкалиптом. Свежие цветы с доставкой по Томску.</description>
       </offer>
-      <offer id="16" available="true">
+      <offer id="17" available="true">
         <name>Букет из 5 кустовых роз Mansfield Park в оформлении</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
@@ -154,7 +163,7 @@
         <url>https://maki-tomsk.ru/cvety/bukety-iz-kustovyh-roz/buket-iz-5-kustovyh-roz-mansfield-park-v-oformlenii/</url>
         <description>Букет из 5 кустовых роз Mansfield Park в оформлении. Свежие цветы с доставкой по Томску.</description>
       </offer>
-      <offer id="17" available="true">
+      <offer id="18" available="true">
         <name>Букет из 5 красных кустовых роз в оформлении</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
@@ -163,7 +172,7 @@
         <url>https://maki-tomsk.ru/cvety/bukety-iz-kustovyh-roz/buket-iz-5-krasnyh-kustovyh-roz-v-oformlenii/</url>
         <description>Букет из 5 красных кустовых роз в оформлении. Свежие цветы с доставкой по Томску.</description>
       </offer>
-      <offer id="18" available="true">
+      <offer id="19" available="true">
         <name>Букет из 15 белых роз Mondial в оформлении</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
@@ -172,7 +181,7 @@
         <url>https://maki-tomsk.ru/cvety/bukety-iz-roz/buket-iz-15-belyh-roz-mondial-v-oformlenii/</url>
         <description>Букет из 15 белых роз Mondial в оформлении. Свежие цветы с доставкой по Томску.</description>
       </offer>
-      <offer id="19" available="true">
+      <offer id="20" available="true">
         <name>Букет из 21 черничной розы Deep Purple в нежном оформлении</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
@@ -181,7 +190,7 @@
         <url>https://maki-tomsk.ru/cvety/bukety-iz-roz/buket-iz-21-chernichnoy-rozy-deep-purple-v-nezhnom-oformlenii/</url>
         <description>Букет из 21 черничной розы Deep Purple в нежном оформлении. Свежие цветы с доставкой по Томску.</description>
       </offer>
-      <offer id="20" available="true">
+      <offer id="21" available="true">
         <name>Букет из 21 пионовидной розы Kahala в оформлении</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
@@ -189,15 +198,6 @@
         <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/29/IMG_5778.jpg.webp</picture>
         <url>https://maki-tomsk.ru/cvety/bukety-iz-roz/buket-iz-21-pionovidnoy-rozy-kahala-v-oformlenii/</url>
         <description>Букет из 21 пионовидной розы Kahala в оформлении. Свежие цветы с доставкой по Томску.</description>
-      </offer>
-      <offer id="21" available="true">
-        <name>Букет из 9 кустовых пионовидных роз с эвкалиптом</name>
-        <price>1</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>3</categoryId>
-        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/22/IMG_4884.jpg.webp</picture>
-        <url>https://maki-tomsk.ru/cvety/bukety-iz-kustovyh-roz/buket-iz-9-kustovyh-pionovidnyh-roz-s-evkaliptom/</url>
-        <description>Букет из 9 кустовых пионовидных роз с эвкалиптом. Свежие цветы с доставкой по Томску.</description>
       </offer>
       <offer id="22" available="true">
         <name>Букет из кустовых роз &quot;Диалог оттенков&quot;</name>
