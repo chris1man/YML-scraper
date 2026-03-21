@@ -20,15 +20,6 @@
         <description>Букет из 15 белых гвоздик в оформлении. Свежие цветы с доставкой по Томску.</description>
       </offer>
       <offer id="2" available="true">
-        <name>Дуобукет из гиацинтов и скиммии</name>
-        <price>1</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/22/IMG_2611.jpg.webp</picture>
-        <url>https://maki-tomsk.ru/bukety/duobukety/duobuket-iz-giacintov-i-skimmii/</url>
-        <description>Дуобукет из гиацинтов и скиммии. Свежие цветы с доставкой по Томску.</description>
-      </offer>
-      <offer id="3" available="true">
         <name>19 розовых альстромерий</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
@@ -37,7 +28,7 @@
         <url>https://maki-tomsk.ru/cvety/bukety-iz-alstromeriy/19-rozovyh-alstromeriy/</url>
         <description>19 розовых альстромерий. Свежие цветы с доставкой по Томску.</description>
       </offer>
-      <offer id="4" available="true">
+      <offer id="3" available="true">
         <name>Монобукет из 11 белых эустом в оформлении</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
@@ -46,7 +37,7 @@
         <url>https://maki-tomsk.ru/cvety/buket-iz-eustomy/monobuket-iz-11-belyh-eustom-v-oformlenii/</url>
         <description>Монобукет из 11 белых эустом в оформлении. Свежие цветы с доставкой по Томску.</description>
       </offer>
-      <offer id="5" available="true">
+      <offer id="4" available="true">
         <name>Монобукет из 15 кремовых мини гербер в оформлении</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
@@ -54,6 +45,15 @@
         <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/18/IMG_4069.jpg.webp</picture>
         <url>https://maki-tomsk.ru/cvety/bukety-iz-gerber/monobuket-iz-15-kremovyh-mini-gerber-v-oformlenii/</url>
         <description>Монобукет из 15 кремовых мини гербер в оформлении. Свежие цветы с доставкой по Томску.</description>
+      </offer>
+      <offer id="5" available="true">
+        <name>Дуобукет из пионовидных роз и скиммии</name>
+        <price>1</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/22/IMG_2973.jpg.webp</picture>
+        <url>https://maki-tomsk.ru/bukety/duobukety/duobuket-iz-pionovidnyh-roz-i-skimmii/</url>
+        <description>Дуобукет из пионовидных роз и скиммии. Свежие цветы с доставкой по Томску.</description>
       </offer>
       <offer id="6" available="true">
         <name>Охапка нежно-розовых ранункулюсов</name>
@@ -236,6 +236,15 @@
         <description>Букет из 15 пионовидных роз Candlelight в оформлении. Свежие цветы с доставкой по Томску.</description>
       </offer>
       <offer id="26" available="true">
+        <name>Сборный букет &quot;Дыхание облаков&quot;</name>
+        <price>1</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/29/IMG_9629.jpg.webp</picture>
+        <url>https://maki-tomsk.ru/bukety/sbornye-bukety/sbornyy-buket-dyhanie-oblakov/</url>
+        <description>Сборный букет &quot;Дыхание облаков&quot;. Свежие цветы с доставкой по Томску.</description>
+      </offer>
+      <offer id="27" available="true">
         <name>Букет из гербер &quot;Белая вуаль&quot;</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
@@ -244,7 +253,7 @@
         <url>https://maki-tomsk.ru/cvety/bukety-iz-gerber/buket-iz-gerber-belaya-vual/</url>
         <description>Букет из гербер &quot;Белая вуаль&quot;. Свежие цветы с доставкой по Томску.</description>
       </offer>
-      <offer id="27" available="true">
+      <offer id="28" available="true">
         <name>Букет из гербер &quot;Песочный шарм&quot;</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
@@ -253,7 +262,7 @@
         <url>https://maki-tomsk.ru/cvety/bukety-iz-gerber/buket-iz-gerberpesochnyy-sharm/</url>
         <description>Букет из гербер &quot;Песочный шарм&quot;. Свежие цветы с доставкой по Томску.</description>
       </offer>
-      <offer id="28" available="true">
+      <offer id="29" available="true">
         <name>Букет из 11 белых гвоздик в оформлении</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
@@ -262,7 +271,7 @@
         <url>https://maki-tomsk.ru/cvety/bukety-iz-gvozdik/buket-iz-11-belyh-gvozdik-v-oformlenii/</url>
         <description>Букет из 11 белых гвоздик в оформлении. Свежие цветы с доставкой по Томску.</description>
       </offer>
-      <offer id="29" available="true">
+      <offer id="30" available="true">
         <name>Сборный букет &quot;Лунный жемчуг&quot;</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
@@ -271,7 +280,7 @@
         <url>https://maki-tomsk.ru/bukety/sbornye-bukety/sbornyy-buket-lunnyy-zhemchug/</url>
         <description>Сборный букет &quot;Лунный жемчуг&quot;. Свежие цветы с доставкой по Томску.</description>
       </offer>
-      <offer id="30" available="true">
+      <offer id="31" available="true">
         <name>Букет из 9 лавандовых кустовых хризантем SANTINI</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
@@ -280,7 +289,7 @@
         <url>https://maki-tomsk.ru/cvety/buket-iz-kustovyh-hrizantem/buket-iz-9-lavandovyh-kustovyh-hrizantem-santini/</url>
         <description>Букет из 9 лавандовых кустовых хризантем SANTINI. Свежие цветы с доставкой по Томску.</description>
       </offer>
-      <offer id="31" available="true">
+      <offer id="32" available="true">
         <name>Букет из 7 кустовых ромашковых хризантем</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
@@ -289,7 +298,7 @@
         <url>https://maki-tomsk.ru/cvety/buket-iz-kustovyh-hrizantem/buket-iz-7-kustovyh-romashkovyh-hrizantem/</url>
         <description>Букет из 7 кустовых ромашковых хризантем. Свежие цветы с доставкой по Томску.</description>
       </offer>
-      <offer id="32" available="true">
+      <offer id="33" available="true">
         <name>Сборный букет &quot;Ледяная нежность&quot;</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
@@ -298,7 +307,7 @@
         <url>https://maki-tomsk.ru/bukety/sbornye-bukety/sbornyy-buket-ledyanaya-nezhnost/</url>
         <description>Сборный букет &quot;Ледяная нежность&quot;. Свежие цветы с доставкой по Томску.</description>
       </offer>
-      <offer id="33" available="true">
+      <offer id="34" available="true">
         <name>Сборный букет &quot;Уютная сказка&quot;</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
@@ -307,7 +316,7 @@
         <url>https://maki-tomsk.ru/bukety/sbornye-bukety/sbornyy-buket-uyutnaya-skazka/</url>
         <description>Сборный букет &quot;Уютная сказка&quot;. Свежие цветы с доставкой по Томску.</description>
       </offer>
-      <offer id="34" available="true">
+      <offer id="35" available="true">
         <name>Сборный букет &quot;Оттенки ласки&quot;</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
@@ -316,7 +325,7 @@
         <url>https://maki-tomsk.ru/bukety/sbornye-bukety/sbornyy-buket-ottenki-laski/</url>
         <description>Сборный букет &quot;Оттенки ласки&quot;. Свежие цветы с доставкой по Томску.</description>
       </offer>
-      <offer id="35" available="true">
+      <offer id="36" available="true">
         <name>Сборный букет &quot;Лёгкость мгновения&quot;</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
@@ -325,7 +334,7 @@
         <url>https://maki-tomsk.ru/bukety/sbornye-bukety/sbornyy-buket-legkost-mgnoveniya/</url>
         <description>Сборный букет &quot;Лёгкость мгновения&quot;. Свежие цветы с доставкой по Томску.</description>
       </offer>
-      <offer id="36" available="true">
+      <offer id="37" available="true">
         <name>Сборный букет &quot;Розовая пенка&quot;</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
@@ -334,7 +343,7 @@
         <url>https://maki-tomsk.ru/bukety/sbornye-bukety/sbornyy-buket-rozovaya-penka/</url>
         <description>Сборный букет &quot;Розовая пенка&quot;. Свежие цветы с доставкой по Томску.</description>
       </offer>
-      <offer id="37" available="true">
+      <offer id="38" available="true">
         <name>Сборный букет &quot;Пастельная карамель&quot;</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
@@ -343,7 +352,7 @@
         <url>https://maki-tomsk.ru/bukety/sbornye-bukety/sbornyy-buket-pastelnaya-karamel/</url>
         <description>Сборный букет &quot;Пастельная карамель&quot;. Свежие цветы с доставкой по Томску.</description>
       </offer>
-      <offer id="38" available="true">
+      <offer id="39" available="true">
         <name>Букет из 13 кустовых хризантем в оформлении</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
@@ -352,7 +361,7 @@
         <url>https://maki-tomsk.ru/cvety/buket-iz-kustovyh-hrizantem/buket-iz-13-kustovyh-hrizantem-v-oformlenii/</url>
         <description>Букет из 13 кустовых хризантем в оформлении. Свежие цветы с доставкой по Томску.</description>
       </offer>
-      <offer id="39" available="true">
+      <offer id="40" available="true">
         <name>Сборный букет &quot;Нежный конфитюр&quot;</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
@@ -360,15 +369,6 @@
         <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/29/IMG_3471.jpg.webp</picture>
         <url>https://maki-tomsk.ru/bukety/sbornye-bukety/sbornyy-buket-nezhnyy-konfityur/</url>
         <description>Сборный букет &quot;Нежный конфитюр&quot;. Свежие цветы с доставкой по Томску.</description>
-      </offer>
-      <offer id="40" available="true">
-        <name>Букет из гвоздик и пионовидных роз &quot;Коралловое облако&quot;</name>
-        <price>1</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>4</categoryId>
-        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/29/IMG_1894_6fwi-ka.jpg.webp</picture>
-        <url>https://maki-tomsk.ru/bukety/duobukety/buket-iz-gvozdik-i-pionovidnyh-roz-korallovoe-oblako/</url>
-        <description>Букет из гвоздик и пионовидных роз &quot;Коралловое облако&quot;. Свежие цветы с доставкой по Томску.</description>
       </offer>
     </offers>
   </shop>
