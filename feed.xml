@@ -101,6 +101,15 @@
         <description>Букет из кустовых хризантем &quot;Искренняя нежность&quot;. Свежие цветы с доставкой по Томску.</description>
       </offer>
       <offer id="11" available="true">
+        <name>Охапка эустомы Rosita White</name>
+        <price>1</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/28/IMG_6520.JPG.webp</picture>
+        <url>https://maki-tomsk.ru/cvety-ohapkoy/ohapka-eustomy-rosita-white/</url>
+        <description>Охапка эустомы Rosita White. Свежие цветы с доставкой по Томску.</description>
+      </offer>
+      <offer id="12" available="true">
         <name>Охапка из нежно-розовых пионов Sarah Bernhardt</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
@@ -109,16 +118,16 @@
         <url>https://maki-tomsk.ru/cvety-ohapkoy/ohapka-iz-nezhno-rozovyh-pionov-sarah-bernhardt/</url>
         <description>Охапка из нежно-розовых пионов Sarah Bernhardt. Свежие цветы с доставкой по Томску.</description>
       </offer>
-      <offer id="12" available="true">
-        <name>Охапка оксипеталума</name>
+      <offer id="13" available="true">
+        <name>Охапка кустовых роз Misty Bubbles</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
-        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/29/IMG_1021.jpg.webp</picture>
-        <url>https://maki-tomsk.ru/cvety-ohapkoy/ohapka-oksipetaluma/</url>
-        <description>Охапка оксипеталума. Свежие цветы с доставкой по Томску.</description>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/28/IMG_5691.JPG.webp</picture>
+        <url>https://maki-tomsk.ru/cvety-ohapkoy/ohapka-kustovyh-roz-misty-bubbles/</url>
+        <description>Охапка кустовых роз Misty Bubbles. Свежие цветы с доставкой по Томску.</description>
       </offer>
-      <offer id="13" available="true">
+      <offer id="14" available="true">
         <name>Охапка сиреневых гиацинтов</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
@@ -127,23 +136,14 @@
         <url>https://maki-tomsk.ru/cvety-ohapkoy/ohapka-sirenevyh-giacintov/</url>
         <description>Охапка сиреневых гиацинтов. Свежие цветы с доставкой по Томску.</description>
       </offer>
-      <offer id="14" available="true">
-        <name>Охапка гвоздик Kiwi Mellow</name>
-        <price>1</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>2</categoryId>
-        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/29/IMG_1012.jpg.webp</picture>
-        <url>https://maki-tomsk.ru/cvety-ohapkoy/ohapka-gvozdik-kiwi-mellow/</url>
-        <description>Охапка гвоздик Kiwi Mellow. Свежие цветы с доставкой по Томску.</description>
-      </offer>
       <offer id="15" available="true">
-        <name>Охапка одиночных хризантем Ping Pong Golden</name>
+        <name>Охапка классических роз Full monty</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
-        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/29/IMG_1014.jpg.webp</picture>
-        <url>https://maki-tomsk.ru/cvety-ohapkoy/ohapka-iz-odinochnyh-hrizantem-ping-pong-golden/</url>
-        <description>Охапка одиночных хризантем Ping Pong Golden. Свежие цветы с доставкой по Томску.</description>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/28/IMG_3679.JPG.webp</picture>
+        <url>https://maki-tomsk.ru/cvety-ohapkoy/ohapka-iz-klassicheskih-roz-full-monty/</url>
+        <description>Охапка классических роз Full monty. Свежие цветы с доставкой по Томску.</description>
       </offer>
       <offer id="16" available="true">
         <name>Букет из 21 малиновой розы в черном оформлении</name>
