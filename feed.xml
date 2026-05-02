@@ -5,7 +5,7 @@
     <url>https://maki-tomsk.ru</url>
     <categories>
       <category id="1">СПЕЦПРЕДЛОЖЕНИЕ ОТ MAKI</category>
-      <category id="2">ОХАПКИ ОТ MAKI</category>
+      <category id="2">СЕТЫ И ОХАПКИ ОТ MAKI</category>
       <category id="3">ГОРЯЧАЯ АКЦИЯ НА РОЗУ</category>
       <category id="4">MAKI-ВИТРИНА</category>
     </categories>
@@ -56,6 +56,15 @@
         <description>Монобукет из 15 малиновых альстромерий. Свежие цветы с доставкой по Томску.</description>
       </offer>
       <offer id="6" available="true">
+        <name>Сет «Светлый контраст»</name>
+        <price>1</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/28/IMG_6954.JPG.webp</picture>
+        <url>https://maki-tomsk.ru/cvety-ohapkoy/set-svetlyy-kontrast/</url>
+        <description>Сет «Светлый контраст». Свежие цветы с доставкой по Томску.</description>
+      </offer>
+      <offer id="7" available="true">
         <name>Охапка из нежно-розовых пионов Sarah Bernhardt</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
@@ -63,15 +72,6 @@
         <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/29/IMG_0456.jpg.webp</picture>
         <url>https://maki-tomsk.ru/cvety-ohapkoy/ohapka-iz-nezhno-rozovyh-pionov-sarah-bernhardt-ru/</url>
         <description>Охапка из нежно-розовых пионов Sarah Bernhardt. Свежие цветы с доставкой по Томску.</description>
-      </offer>
-      <offer id="7" available="true">
-        <name>Охапка гортензий Verena White</name>
-        <price>1</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>2</categoryId>
-        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/28/IMG_6481.JPG.webp</picture>
-        <url>https://maki-tomsk.ru/cvety-ohapkoy/ohapka-gortenziy-verena-white/</url>
-        <description>Охапка гортензий Verena White. Свежие цветы с доставкой по Томску.</description>
       </offer>
       <offer id="8" available="true">
         <name>Охапка кустовых роз Scarlet Dimension с эвкалиптом</name>
