@@ -56,22 +56,22 @@
         <description>Букет из 5 кустовых ромашковых хризантем. Свежие цветы с доставкой по Томску.</description>
       </offer>
       <offer id="6" available="true">
-        <name>Охапка кустовых хризантем Chic</name>
+        <name>Охапка красных гвоздик</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
-        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/28/IMG_3614.JPG.webp</picture>
-        <url>https://maki-tomsk.ru/cvety-ohapkoy/ohapka-kustovyh-hrizantem-chic-ru/</url>
-        <description>Охапка кустовых хризантем Chic. Свежие цветы с доставкой по Томску.</description>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/30/IMG_6691.jpg.webp</picture>
+        <url>https://maki-tomsk.ru/cvety-ohapkoy/ohapka-krasnyh-gvozdik/</url>
+        <description>Охапка красных гвоздик. Свежие цветы с доставкой по Томску.</description>
       </offer>
       <offer id="7" available="true">
-        <name>Охапка из нежно-розовых пионов Sarah Bernhardt</name>
+        <name>Охапка нежно-розовых пионов Sarah Bernhardt</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
         <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/29/IMG_0456.jpg.webp</picture>
         <url>https://maki-tomsk.ru/cvety-ohapkoy/ohapka-iz-nezhno-rozovyh-pionov-sarah-bernhardt-ru/</url>
-        <description>Охапка из нежно-розовых пионов Sarah Bernhardt. Свежие цветы с доставкой по Томску.</description>
+        <description>Охапка нежно-розовых пионов Sarah Bernhardt. Свежие цветы с доставкой по Томску.</description>
       </offer>
       <offer id="8" available="true">
         <name>Охапка кустовых роз Misty Bubbles</name>
@@ -92,13 +92,13 @@
         <description>Охапка альстромерий Casanova. Свежие цветы с доставкой по Томску.</description>
       </offer>
       <offer id="10" available="true">
-        <name>Охапка классических роз Nina</name>
+        <name>Охапка коралловых пионов Coral Charm</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
-        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/28/IMG_6168.JPG.webp</picture>
-        <url>https://maki-tomsk.ru/cvety-ohapkoy/ohapka-klassicheskih-roz-nina-ru/</url>
-        <description>Охапка классических роз Nina. Свежие цветы с доставкой по Томску.</description>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/30/IMG_6680.jpg.webp</picture>
+        <url>https://maki-tomsk.ru/cvety-ohapkoy/ohapka-korallovyh-pionov-coral-charm/</url>
+        <description>Охапка коралловых пионов Coral Charm. Свежие цветы с доставкой по Томску.</description>
       </offer>
       <offer id="11" available="true">
         <name>Букет из 15 роз Shangri La в оформлении</name>
