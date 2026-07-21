@@ -11,13 +11,13 @@
     </categories>
     <offers>
       <offer id="1" available="true">
-        <name>Букет из 7 нежно-розовых пионов в оформлении</name>
+        <name>Букет из 7 нутанов с эвкалиптом</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
-        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/17/IMG_8611.jpg.webp</picture>
-        <url>https://maki-tomsk.ru/cvety/bukety-iz-pionov/buket-iz-7-nezhno-rozovyh-pionov-v-oformlenii/</url>
-        <description>Букет из 7 нежно-розовых пионов в оформлении. Свежие цветы с доставкой по Томску.</description>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/30/IMG_8144.jpg.webp</picture>
+        <url>https://maki-tomsk.ru/cvety/buket-i-protei/buket-iz-7-nutanov-s-evkaliptom/</url>
+        <description>Букет из 7 нутанов с эвкалиптом. Свежие цветы с доставкой по Томску.</description>
       </offer>
       <offer id="2" available="true">
         <name>Букет из 5 белых кустовых хризантем с эвкалиптом</name>
