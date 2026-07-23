@@ -38,13 +38,13 @@
         <description>Букет из 7 нутанов с эвкалиптом. Свежие цветы с доставкой по Томску.</description>
       </offer>
       <offer id="4" available="true">
-        <name>Букет из подсолнуха &quot;Медовый лучик&quot;</name>
+        <name>Букет из подсолнухов и эустом &quot;Солнечный привкус&quot;</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
-        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/27/IMG_8582.jpg.webp</picture>
-        <url>https://maki-tomsk.ru/cvety/bukety-iz-podsolnuhov/buket-iz-podsolnuha-medovyy-luchik/</url>
-        <description>Букет из подсолнуха &quot;Медовый лучик&quot;. Свежие цветы с доставкой по Томску.</description>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/26/IMG_7293.jpg.webp</picture>
+        <url>https://maki-tomsk.ru/bukety/duobukety/buket-iz-podsolnuhov-i-eustom-solnechnyy-privkus/</url>
+        <description>Букет из подсолнухов и эустом &quot;Солнечный привкус&quot;. Свежие цветы с доставкой по Томску.</description>
       </offer>
       <offer id="5" available="true">
         <name>Букет из 15 белых кустовых хризантем SANTINI с эвкалиптом</name>
@@ -56,6 +56,15 @@
         <description>Букет из 15 белых кустовых хризантем SANTINI с эвкалиптом. Свежие цветы с доставкой по Томску.</description>
       </offer>
       <offer id="6" available="true">
+        <name>Охапка кустовых роз Scarlet Dimension</name>
+        <price>1</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/28/IMG_1877.JPG.webp</picture>
+        <url>https://maki-tomsk.ru/cvety-ohapkoy/ohapka-kustovyh-roz-scarlet-dimension/</url>
+        <description>Охапка кустовых роз Scarlet Dimension. Свежие цветы с доставкой по Томску.</description>
+      </offer>
+      <offer id="7" available="true">
         <name>Охапка подсолнухов</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
@@ -64,34 +73,7 @@
         <url>https://maki-tomsk.ru/cvety-ohapkoy/ohapka-podsolnuhov/</url>
         <description>Охапка подсолнухов. Свежие цветы с доставкой по Томску.</description>
       </offer>
-      <offer id="7" available="true">
-        <name>Охапка кустовых хризантем Altay</name>
-        <price>1</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>2</categoryId>
-        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/30/IMG_4568.jpg.webp</picture>
-        <url>https://maki-tomsk.ru/cvety-ohapkoy/ohapka-kustovyh-hrizantem-altay-ru/</url>
-        <description>Охапка кустовых хризантем Altay. Свежие цветы с доставкой по Томску.</description>
-      </offer>
       <offer id="8" available="true">
-        <name>Охапка классических роз Nina</name>
-        <price>1</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>2</categoryId>
-        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/28/IMG_6168.JPG.webp</picture>
-        <url>https://maki-tomsk.ru/cvety-ohapkoy/ohapka-klassicheskih-roz-nina-ru/</url>
-        <description>Охапка классических роз Nina. Свежие цветы с доставкой по Томску.</description>
-      </offer>
-      <offer id="9" available="true">
-        <name>Охапка кустовых хризантем Chic</name>
-        <price>1</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>2</categoryId>
-        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/30/IMG_4557.jpg.webp</picture>
-        <url>https://maki-tomsk.ru/cvety-ohapkoy/ohapka-kustovyh-hrizantem-chic-ru/</url>
-        <description>Охапка кустовых хризантем Chic. Свежие цветы с доставкой по Томску.</description>
-      </offer>
-      <offer id="10" available="true">
         <name>Охапка кустовых роз Fireworks</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
@@ -100,16 +82,25 @@
         <url>https://maki-tomsk.ru/cvety-ohapkoy/ohapka-kustovyh-roz-fireworks/</url>
         <description>Охапка кустовых роз Fireworks. Свежие цветы с доставкой по Томску.</description>
       </offer>
-      <offer id="11" available="true">
-        <name>Букет из 13 пионовидных роз Pink Expression с эвкалиптом</name>
+      <offer id="9" available="true">
+        <name>Охапка розовых маттиол</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
-        <categoryId>3</categoryId>
-        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/27/IMG_7731.jpg.webp</picture>
-        <url>https://maki-tomsk.ru/cvety/bukety-iz-roz/buket-iz-13-pionovidnyh-roz-pink-expression-s-evkaliptom/</url>
-        <description>Букет из 13 пионовидных роз Pink Expression с эвкалиптом. Свежие цветы с доставкой по Томску.</description>
+        <categoryId>2</categoryId>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/30/IMG_7407.jpg.webp</picture>
+        <url>https://maki-tomsk.ru/cvety-ohapkoy/ohapka-rozovyh-mattiol-ru/</url>
+        <description>Охапка розовых маттиол. Свежие цветы с доставкой по Томску.</description>
       </offer>
-      <offer id="12" available="true">
+      <offer id="10" available="true">
+        <name>Охапка кустовых роз Lady Bombastic с эвкалиптом</name>
+        <price>1</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/28/IMG_1851.JPG.webp</picture>
+        <url>https://maki-tomsk.ru/cvety-ohapkoy/ohapka-kustovyh-roz-lady-bombastic-s-evkaliptom-ru/</url>
+        <description>Охапка кустовых роз Lady Bombastic с эвкалиптом. Свежие цветы с доставкой по Томску.</description>
+      </offer>
+      <offer id="11" available="true">
         <name>Букет из 15 роз Nina с эвкалиптом</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
@@ -118,7 +109,97 @@
         <url>https://maki-tomsk.ru/cvety/bukety-iz-roz/buket-iz-15-roz-nina-s-evkaliptom/</url>
         <description>Букет из 15 роз Nina с эвкалиптом. Свежие цветы с доставкой по Томску.</description>
       </offer>
+      <offer id="12" available="true">
+        <name>Букет из 25 нежно-розовых роз сорта Pink Mondial в оформлении</name>
+        <price>1</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/17/IMG_6810.jpg.webp</picture>
+        <url>https://maki-tomsk.ru/cvety/bukety-iz-roz/buket-iz-25-nezhno-rozovyh-roz-sorta-pink-mondial-v-oformlenii/</url>
+        <description>Букет из 25 нежно-розовых роз сорта Pink Mondial в оформлении. Свежие цветы с доставкой по Томску.</description>
+      </offer>
       <offer id="13" available="true">
+        <name>Букет из 15 роз Explorer с эвкалиптом</name>
+        <price>1</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/30/IMG_4263.jpg.webp</picture>
+        <url>https://maki-tomsk.ru/cvety/bukety-iz-roz/buket-iz-15-roz-explorer-s-evkaliptom/</url>
+        <description>Букет из 15 роз Explorer с эвкалиптом. Свежие цветы с доставкой по Томску.</description>
+      </offer>
+      <offer id="14" available="true">
+        <name>Букет из 11 роз Mondial с эвкалиптом</name>
+        <price>1</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/28/IMG_0588.jpg.webp</picture>
+        <url>https://maki-tomsk.ru/cvety/bukety-iz-roz/buket-iz-11-belyh-roz-s-evkaliptom-v-oformlenii/</url>
+        <description>Букет из 11 роз Mondial с эвкалиптом. Свежие цветы с доставкой по Томску.</description>
+      </offer>
+      <offer id="15" available="true">
+        <name>Монобукет из 25 пионовидных роз сорта &quot;Queens Crown&quot;</name>
+        <price>1</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/14/Monobuket_iz_25_pionovidnyh_roz_sorta_Queens_Crown__1_.jpeg.webp</picture>
+        <url>https://maki-tomsk.ru/cvety/monobuket-iz-25-pionovidnyh-roz-sorta-queens-crown/</url>
+        <description>Монобукет из 25 пионовидных роз сорта &quot;Queens Crown&quot;. Свежие цветы с доставкой по Томску.</description>
+      </offer>
+      <offer id="16" available="true">
+        <name>Букет из 25 роз Mandala в оформлении</name>
+        <price>1</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/24/IMG_6376.jpg.webp</picture>
+        <url>https://maki-tomsk.ru/cvety/bukety-iz-roz/buket-iz-25-roz-mandala-v-oformlenii/</url>
+        <description>Букет из 25 роз Mandala в оформлении. Свежие цветы с доставкой по Томску.</description>
+      </offer>
+      <offer id="17" available="true">
+        <name>Букет из 21 розы Full monty с эвкалиптом</name>
+        <price>1</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/30/IMG_4346.jpg.webp</picture>
+        <url>https://maki-tomsk.ru/cvety/bukety-iz-roz/buket-iz-21-rozy-full-monty-s-evkaliptom/</url>
+        <description>Букет из 21 розы Full monty с эвкалиптом. Свежие цветы с доставкой по Томску.</description>
+      </offer>
+      <offer id="18" available="true">
+        <name>Букет из 9 роз Silantoi с эвкалиптом</name>
+        <price>1</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/30/IMG_3088.jpg.webp</picture>
+        <url>https://maki-tomsk.ru/cvety/bukety-iz-roz/buket-iz-9-roz-silantoi-s-evkaliptom/</url>
+        <description>Букет из 9 роз Silantoi с эвкалиптом. Свежие цветы с доставкой по Томску.</description>
+      </offer>
+      <offer id="19" available="true">
+        <name>Букет из 25 розовых роз Esperance в нежном оформлении</name>
+        <price>1</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/17/IMG_8935.jpg.webp</picture>
+        <url>https://maki-tomsk.ru/cvety/bukety-iz-roz/buket-iz-25-rozovyh-roz-esperance-v-nezhnom-oformlenii/</url>
+        <description>Букет из 25 розовых роз Esperance в нежном оформлении. Свежие цветы с доставкой по Томску.</description>
+      </offer>
+      <offer id="20" available="true">
+        <name>Букет из 15 красных роз в оформлении</name>
+        <price>1</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/26/IMG_1011.jpg.webp</picture>
+        <url>https://maki-tomsk.ru/cvety/bukety-iz-roz/buket-iz-15-krasnyh-roz-v-oformlenii-ru/</url>
+        <description>Букет из 15 красных роз в оформлении. Свежие цветы с доставкой по Томску.</description>
+      </offer>
+      <offer id="21" available="true">
+        <name>Букет из 11 французских роз в оформлении</name>
+        <price>1</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/26/IMG_5738.jpg.webp</picture>
+        <url>https://maki-tomsk.ru/cvety/bukety-iz-roz/buket-iz-11-francuzskih-roz-v-oformlenii/</url>
+        <description>Букет из 11 французских роз в оформлении. Свежие цветы с доставкой по Томску.</description>
+      </offer>
+      <offer id="22" available="true">
         <name>Букет из 15 черничных роз в оформлении</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
@@ -127,43 +208,7 @@
         <url>https://maki-tomsk.ru/cvety/bukety-iz-roz/buket-iz-15-chernichnyh-roz-v-oformlenii/</url>
         <description>Букет из 15 черничных роз в оформлении. Свежие цветы с доставкой по Томску.</description>
       </offer>
-      <offer id="14" available="true">
-        <name>Букет из 9 роз Carousel с эвкалиптом</name>
-        <price>1</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>3</categoryId>
-        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/30/IMG_9853.jpg.webp</picture>
-        <url>https://maki-tomsk.ru/cvety/bukety-iz-roz/buket-iz-9-roz-carousel-s-evkaliptom/</url>
-        <description>Букет из 9 роз Carousel с эвкалиптом. Свежие цветы с доставкой по Томску.</description>
-      </offer>
-      <offer id="15" available="true">
-        <name>Букет из 15 пионовидных роз Pink Expression в оформлении</name>
-        <price>1</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>3</categoryId>
-        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/28/IMG_5683.jpg.webp</picture>
-        <url>https://maki-tomsk.ru/cvety/bukety-iz-roz/buket-iz-15-pionovidnyh-roz-pink-expression-v-oformlenii/</url>
-        <description>Букет из 15 пионовидных роз Pink Expression в оформлении. Свежие цветы с доставкой по Томску.</description>
-      </offer>
-      <offer id="16" available="true">
-        <name>Букет из 11 белых роз Mondial в оформлении</name>
-        <price>1</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>3</categoryId>
-        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/21/IMG_7319.jpg.webp</picture>
-        <url>https://maki-tomsk.ru/cvety/bukety-iz-roz/buket-iz-11-belyh-roz-mondial-v-oformlenii/</url>
-        <description>Букет из 11 белых роз Mondial в оформлении. Свежие цветы с доставкой по Томску.</description>
-      </offer>
-      <offer id="17" available="true">
-        <name>Букет из 7 пионовидных роз Queens Crown с эвкалиптом</name>
-        <price>1</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>3</categoryId>
-        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/22/IMG_4733.jpg.webp</picture>
-        <url>https://maki-tomsk.ru/cvety/bukety-iz-roz/buket-iz-7-pionovidnyh-roz-queens-crown-s-evkaliptom/</url>
-        <description>Букет из 7 пионовидных роз Queens Crown с эвкалиптом. Свежие цветы с доставкой по Томску.</description>
-      </offer>
-      <offer id="18" available="true">
+      <offer id="23" available="true">
         <name>Букет из 21 бело-розовой розы Carousel в оформлении</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
@@ -172,88 +217,34 @@
         <url>https://maki-tomsk.ru/cvety/bukety-iz-roz/buket-iz-21-belo-rozovoy-rozy-carousel-v-oformlenii/</url>
         <description>Букет из 21 бело-розовой розы Carousel в оформлении. Свежие цветы с доставкой по Томску.</description>
       </offer>
-      <offer id="19" available="true">
-        <name>Букет из 7 роз Nina с эвкалиптом</name>
-        <price>1</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>3</categoryId>
-        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/30/IMG_2879.jpg.webp</picture>
-        <url>https://maki-tomsk.ru/cvety/bukety-iz-roz/buket-iz-7-roz-nina-s-evkaliptom/</url>
-        <description>Букет из 7 роз Nina с эвкалиптом. Свежие цветы с доставкой по Томску.</description>
-      </offer>
-      <offer id="20" available="true">
-        <name>Букет из 25 роз Magic Times</name>
-        <price>1</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>3</categoryId>
-        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/29/IMG_5539.jpg.webp</picture>
-        <url>https://maki-tomsk.ru/cvety/bukety-iz-roz/buket-iz-25-roz-magic-times/</url>
-        <description>Букет из 25 роз Magic Times. Свежие цветы с доставкой по Томску.</description>
-      </offer>
-      <offer id="21" available="true">
-        <name>Букет из подсолнухов и эустом &quot;Солнечный привкус&quot;</name>
-        <price>1</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>4</categoryId>
-        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/26/IMG_7293.jpg.webp</picture>
-        <url>https://maki-tomsk.ru/bukety/duobukety/buket-iz-podsolnuhov-i-eustom-solnechnyy-privkus/</url>
-        <description>Букет из подсолнухов и эустом &quot;Солнечный привкус&quot;. Свежие цветы с доставкой по Томску.</description>
-      </offer>
-      <offer id="22" available="true">
-        <name>Букет из 5 белых кустовых хризантем с эвкалиптом</name>
-        <price>1</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>4</categoryId>
-        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/30/IMG_5266.jpg.webp</picture>
-        <url>https://maki-tomsk.ru/cvety/buket-iz-kustovyh-hrizantem/buket-iz-5-belyh-kustovyh-hrizantem-s-evkaliptom/</url>
-        <description>Букет из 5 белых кустовых хризантем с эвкалиптом. Свежие цветы с доставкой по Томску.</description>
-      </offer>
-      <offer id="23" available="true">
-        <name>Букет из 9 бело-розовых кустовых роз в оформлении</name>
-        <price>1</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>4</categoryId>
-        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/26/IMG_0616__2_.jpg.webp</picture>
-        <url>https://maki-tomsk.ru/cvety/bukety-iz-kustovyh-roz/buket-iz-9-belo-rozovyh-kustovyh-roz-v-oformlenii/</url>
-        <description>Букет из 9 бело-розовых кустовых роз в оформлении. Свежие цветы с доставкой по Томску.</description>
-      </offer>
       <offer id="24" available="true">
-        <name>Букет из 7 мини гербер Pomponi Pearl с эвкалиптом</name>
+        <name>Букет из 9 пионовидных роз Candlelight с эвкалиптом</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
-        <categoryId>4</categoryId>
-        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/27/IMG_9467.jpg.webp</picture>
-        <url>https://maki-tomsk.ru/cvety/bukety-iz-gerber/buket-iz-7-mini-gerber-pomponi-pearl-s-evkaliptom/</url>
-        <description>Букет из 7 мини гербер Pomponi Pearl с эвкалиптом. Свежие цветы с доставкой по Томску.</description>
+        <categoryId>3</categoryId>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/27/IMG_8529.jpg.webp</picture>
+        <url>https://maki-tomsk.ru/cvety/bukety-iz-roz/buket-iz-9-pionovidnyh-roz-candlelight-s-evkaliptom/</url>
+        <description>Букет из 9 пионовидных роз Candlelight с эвкалиптом. Свежие цветы с доставкой по Томску.</description>
       </offer>
       <offer id="25" available="true">
-        <name>Букет из 5 кустовых ромашковых хризантем</name>
+        <name>Букет из 7 пионовидных роз Kahala с эвкалиптом</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
-        <categoryId>4</categoryId>
-        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/21/IMG_9454.jpg.webp</picture>
-        <url>https://maki-tomsk.ru/cvety/buket-iz-kustovyh-hrizantem/buket-iz-5-kustovyh-romashkovyh-hrizantem/</url>
-        <description>Букет из 5 кустовых ромашковых хризантем. Свежие цветы с доставкой по Томску.</description>
+        <categoryId>3</categoryId>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/30/IMG_3593.jpg.webp</picture>
+        <url>https://maki-tomsk.ru/cvety/bukety-iz-roz/buket-iz-7-pionovidnyh-roz-kahala-s-evkaliptom/</url>
+        <description>Букет из 7 пионовидных роз Kahala с эвкалиптом. Свежие цветы с доставкой по Томску.</description>
       </offer>
       <offer id="26" available="true">
-        <name>Букет из 5 красных кустовых роз в оформлении</name>
+        <name>Букет из гербер и эустомы &quot;Пудровый мираж&quot;</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
-        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/26/IMG_8664.jpg.webp</picture>
-        <url>https://maki-tomsk.ru/cvety/bukety-iz-kustovyh-roz/buket-iz-5-krasnyh-kustovyh-roz-v-oformlenii/</url>
-        <description>Букет из 5 красных кустовых роз в оформлении. Свежие цветы с доставкой по Томску.</description>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/24/IMG_2378.jpg.webp</picture>
+        <url>https://maki-tomsk.ru/bukety/duobukety/buket-iz-gerber-i-eustomy-pudrovyy-mirazh/</url>
+        <description>Букет из гербер и эустомы &quot;Пудровый мираж&quot;. Свежие цветы с доставкой по Томску.</description>
       </offer>
       <offer id="27" available="true">
-        <name>Сборный букет &quot;Уютная сказка&quot;</name>
-        <price>1</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>4</categoryId>
-        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/28/IMG_6348.jpg.webp</picture>
-        <url>https://maki-tomsk.ru/bukety/sbornye-bukety/sbornyy-buket-uyutnaya-skazka/</url>
-        <description>Сборный букет &quot;Уютная сказка&quot;. Свежие цветы с доставкой по Томску.</description>
-      </offer>
-      <offer id="28" available="true">
         <name>Сборный букет &quot;Нежность айвори&quot;</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
@@ -262,7 +253,61 @@
         <url>https://maki-tomsk.ru/bukety/sbornye-bukety/sbornyy-buket-nezhnost-ayvori/</url>
         <description>Сборный букет &quot;Нежность айвори&quot;. Свежие цветы с доставкой по Томску.</description>
       </offer>
+      <offer id="28" available="true">
+        <name>Букет из французских роз и эустом &quot;Рассветные облака&quot;</name>
+        <price>1</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/26/IMG_6725__2_.jpg.webp</picture>
+        <url>https://maki-tomsk.ru/bukety/duobukety/buket-iz-francuzskih-roz-i-eustomy-rassvetnye-oblaka/</url>
+        <description>Букет из французских роз и эустом &quot;Рассветные облака&quot;. Свежие цветы с доставкой по Томску.</description>
+      </offer>
       <offer id="29" available="true">
+        <name>Букет из подсолнуха &quot;Медовый лучик&quot;</name>
+        <price>1</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/27/IMG_8582.jpg.webp</picture>
+        <url>https://maki-tomsk.ru/cvety/bukety-iz-podsolnuhov/buket-iz-podsolnuha-medovyy-luchik/</url>
+        <description>Букет из подсолнуха &quot;Медовый лучик&quot;. Свежие цветы с доставкой по Томску.</description>
+      </offer>
+      <offer id="30" available="true">
+        <name>Букет из одиночных хризантем и маттиол &quot;Янтарный шлейф&quot;</name>
+        <price>1</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/30/IMG_7798.jpg.webp</picture>
+        <url>https://maki-tomsk.ru/bukety/duobukety/buket-iz-odinochnyh-hrizantem-i-mattiol-yantarnyy-shleyf/</url>
+        <description>Букет из одиночных хризантем и маттиол &quot;Янтарный шлейф&quot;. Свежие цветы с доставкой по Томску.</description>
+      </offer>
+      <offer id="31" available="true">
+        <name>Сборный букет &quot;Влюблённый взгляд&quot;</name>
+        <price>1</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/29/IMG_2650.jpg.webp</picture>
+        <url>https://maki-tomsk.ru/bukety/sbornye-bukety/sbornyy-buket-vlyublennyy-vzglyad/</url>
+        <description>Сборный букет &quot;Влюблённый взгляд&quot;. Свежие цветы с доставкой по Томску.</description>
+      </offer>
+      <offer id="32" available="true">
+        <name>Сборный букет &quot;Сумеречная заря&quot;</name>
+        <price>1</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/28/IMG_7705.jpg.webp</picture>
+        <url>https://maki-tomsk.ru/bukety/sbornye-bukety/sbornyy-buket-sumerechnaya-zarya/</url>
+        <description>Сборный букет &quot;Сумеречная заря&quot;. Свежие цветы с доставкой по Томску.</description>
+      </offer>
+      <offer id="33" available="true">
+        <name>Букет из французских роз и эустом &quot;Пульс момента&quot;</name>
+        <price>1</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/29/IMG_4824.jpg.webp</picture>
+        <url>https://maki-tomsk.ru/bukety/duobukety/buket-iz-francuzskih-roz-i-eustom-puls-momenta/</url>
+        <description>Букет из французских роз и эустом &quot;Пульс момента&quot;. Свежие цветы с доставкой по Томску.</description>
+      </offer>
+      <offer id="34" available="true">
         <name>Композиция в сумочке из радужной гипсофилы</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
@@ -271,14 +316,104 @@
         <url>https://maki-tomsk.ru/kompozicii/kompoziciya-v-sumochke-iz-raduzhnoy-gipsofily/</url>
         <description>Композиция в сумочке из радужной гипсофилы. Свежие цветы с доставкой по Томску.</description>
       </offer>
-      <offer id="30" available="true">
-        <name>Композиция в шляпной коробке &quot;Нежность на ладони&quot;</name>
+      <offer id="35" available="true">
+        <name>Сборный букет &quot;Нежный лепет&quot;</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
-        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/26/IMG_6663_ylsy-td.jpg.webp</picture>
-        <url>https://maki-tomsk.ru/kompozicii/cvety-v-shlyapnyh-korobkah/kompoziciya-v-shlyapnoy-korobke-nezhnost-na-ladoni/</url>
-        <description>Композиция в шляпной коробке &quot;Нежность на ладони&quot;. Свежие цветы с доставкой по Томску.</description>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/25/IMG_6503.jpg.webp</picture>
+        <url>https://maki-tomsk.ru/bukety/sbornye-bukety/sbornyy-buket-nezhnyy-lepet/</url>
+        <description>Сборный букет &quot;Нежный лепет&quot;. Свежие цветы с доставкой по Томску.</description>
+      </offer>
+      <offer id="36" available="true">
+        <name>Букет из 3 подсолнухов с эвкалиптом</name>
+        <price>1</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/26/IMG_0655.jpg.webp</picture>
+        <url>https://maki-tomsk.ru/cvety/bukety-iz-podsolnuhov/buket-iz-3-podsolnuhov-s-evkaliptom/</url>
+        <description>Букет из 3 подсолнухов с эвкалиптом. Свежие цветы с доставкой по Томску.</description>
+      </offer>
+      <offer id="37" available="true">
+        <name>Букет из эустом &quot;Нежная палитра&quot;</name>
+        <price>1</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/30/IMG_7772.jpg.webp</picture>
+        <url>https://maki-tomsk.ru/cvety/buket-iz-eustomy/buket-iz-eustom-nezhnaya-palitra/</url>
+        <description>Букет из эустом &quot;Нежная палитра&quot;. Свежие цветы с доставкой по Томску.</description>
+      </offer>
+      <offer id="38" available="true">
+        <name>Букет из маттиолы и эустомы &quot;Скромное сияние&quot;</name>
+        <price>1</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/25/IMG_0570.jpg.webp</picture>
+        <url>https://maki-tomsk.ru/bukety/duobukety/buket-iz-mattioly-i-eustomy-skromnoe-siyanie/</url>
+        <description>Букет из маттиолы и эустомы &quot;Скромное сияние&quot;. Свежие цветы с доставкой по Томску.</description>
+      </offer>
+      <offer id="39" available="true">
+        <name>Сборный букет &quot;Пастельный джаз&quot;</name>
+        <price>1</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/30/IMG_5075.jpg.webp</picture>
+        <url>https://maki-tomsk.ru/bukety/sbornye-bukety/sbornyy-buket-pastelnyy-dzhaz/</url>
+        <description>Сборный букет &quot;Пастельный джаз&quot;. Свежие цветы с доставкой по Томску.</description>
+      </offer>
+      <offer id="40" available="true">
+        <name>Дуобукет из розовой эустомы и кустовой хризантемы</name>
+        <price>1</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/20/IMG_9100.jpg.webp</picture>
+        <url>https://maki-tomsk.ru/bukety/duobukety/duobuket-iz-rozovoy-eustomy-i-kustovoy-hrizantemy/</url>
+        <description>Дуобукет из розовой эустомы и кустовой хризантемы. Свежие цветы с доставкой по Томску.</description>
+      </offer>
+      <offer id="41" available="true">
+        <name>Сборный букет &quot;Светлый блик&quot;</name>
+        <price>1</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/30/IMG_7632.jpg.webp</picture>
+        <url>https://maki-tomsk.ru/bukety/sbornye-bukety/sbornyy-buket-svetlyy-blik/</url>
+        <description>Сборный букет &quot;Светлый блик&quot;. Свежие цветы с доставкой по Томску.</description>
+      </offer>
+      <offer id="42" available="true">
+        <name>Сборный букет &quot;Ароматная рапсодия&quot;</name>
+        <price>1</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/30/IMG_7769.jpg.webp</picture>
+        <url>https://maki-tomsk.ru/bukety/sbornye-bukety/sbornyy-buket-aromatnaya-rapsodiya/</url>
+        <description>Сборный букет &quot;Ароматная рапсодия&quot;. Свежие цветы с доставкой по Томску.</description>
+      </offer>
+      <offer id="43" available="true">
+        <name>Сборный букет &quot;Уютная сказка&quot;</name>
+        <price>1</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/28/IMG_6348.jpg.webp</picture>
+        <url>https://maki-tomsk.ru/bukety/sbornye-bukety/sbornyy-buket-uyutnaya-skazka/</url>
+        <description>Сборный букет &quot;Уютная сказка&quot;. Свежие цветы с доставкой по Томску.</description>
+      </offer>
+      <offer id="44" available="true">
+        <name>Букет из 5 белых кустовых хризантем с эвкалиптом</name>
+        <price>1</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/30/IMG_5266.jpg.webp</picture>
+        <url>https://maki-tomsk.ru/cvety/buket-iz-kustovyh-hrizantem/buket-iz-5-belyh-kustovyh-hrizantem-s-evkaliptom/</url>
+        <description>Букет из 5 белых кустовых хризантем с эвкалиптом. Свежие цветы с доставкой по Томску.</description>
+      </offer>
+      <offer id="45" available="true">
+        <name>Сборный букет &quot;Театр теней&quot;</name>
+        <price>1</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/30/IMG_3962.jpg.webp</picture>
+        <url>https://maki-tomsk.ru/bukety/sbornye-bukety/sbornyy-buket-teatr-teney/</url>
+        <description>Сборный букет &quot;Театр теней&quot;. Свежие цветы с доставкой по Томску.</description>
       </offer>
     </offers>
   </shop>
