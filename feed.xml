@@ -11,13 +11,13 @@
     </categories>
     <offers>
       <offer id="1" available="true">
-        <name>Сборный букет &quot;Театр теней&quot;</name>
+        <name>Букет из гвоздик и маттиол &quot;Кремовый десерт&quot;</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
-        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/30/IMG_3962.jpg.webp</picture>
-        <url>https://maki-tomsk.ru/bukety/sbornye-bukety/sbornyy-buket-teatr-teney/</url>
-        <description>Сборный букет &quot;Театр теней&quot;. Свежие цветы с доставкой по Томску.</description>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/30/IMG_8018.jpg.webp</picture>
+        <url>https://maki-tomsk.ru/bukety/duobukety/buket-iz-gvozdik-i-mattiol-kremovyy-desert/</url>
+        <description>Букет из гвоздик и маттиол &quot;Кремовый десерт&quot;. Свежие цветы с доставкой по Томску.</description>
       </offer>
       <offer id="2" available="true">
         <name>Букет из 3 фиолетовых гортензий с эвкалиптом</name>
