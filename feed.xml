@@ -110,6 +110,15 @@
         <description>Охапка подсолнухов. Свежие цветы с доставкой по Томску.</description>
       </offer>
       <offer id="12" available="true">
+        <name>Охапка классических роз Carousel</name>
+        <price>1</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/28/IMG_6144.JPG.webp</picture>
+        <url>https://maki-tomsk.ru/cvety-ohapkoy/ohapka-klassicheskih-roz-carousel/</url>
+        <description>Охапка классических роз Carousel. Свежие цветы с доставкой по Томску.</description>
+      </offer>
+      <offer id="13" available="true">
         <name>Охапка кустовых хризантем Altay</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
@@ -118,32 +127,23 @@
         <url>https://maki-tomsk.ru/cvety-ohapkoy/ohapka-kustovyh-hrizantem-altay-ru/</url>
         <description>Охапка кустовых хризантем Altay. Свежие цветы с доставкой по Томску.</description>
       </offer>
-      <offer id="13" available="true">
-        <name>Охапка кустовых роз Scarlet Dimension с эвкалиптом</name>
-        <price>1</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>2</categoryId>
-        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/28/IMG_1882.JPG.webp</picture>
-        <url>https://maki-tomsk.ru/cvety-ohapkoy/ohapka-krasnyh-kustovyh-roz-scarlet-dimension-s-evkaliptom/</url>
-        <description>Охапка кустовых роз Scarlet Dimension с эвкалиптом. Свежие цветы с доставкой по Томску.</description>
-      </offer>
       <offer id="14" available="true">
         <name>Охапка кустовых хризантем Santini</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
-        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/30/IMG_6801.jpg.webp</picture>
-        <url>https://maki-tomsk.ru/cvety-ohapkoy/ohapka-kustovyh-hrizantem-santini-ru-4/</url>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/30/IMG_6819.jpg.webp</picture>
+        <url>https://maki-tomsk.ru/cvety-ohapkoy/ohapka-kustovyh-hrizantem-santini-ru/</url>
         <description>Охапка кустовых хризантем Santini. Свежие цветы с доставкой по Томску.</description>
       </offer>
       <offer id="15" available="true">
-        <name>Сет «Ягодный вихрь»</name>
+        <name>Охапка классических роз Mondial</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
-        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/29/IMG_6659.jpg.webp</picture>
-        <url>https://maki-tomsk.ru/cvety-ohapkoy/sety/set-yagodnyy-vihr/</url>
-        <description>Сет «Ягодный вихрь». Свежие цветы с доставкой по Томску.</description>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/28/IMG_6135.JPG.webp</picture>
+        <url>https://maki-tomsk.ru/cvety-ohapkoy/ohapka-klassicheskih-roz-mondial/</url>
+        <description>Охапка классических роз Mondial. Свежие цветы с доставкой по Томску.</description>
       </offer>
       <offer id="16" available="true">
         <name>Букет из 25 белых роз 70 см</name>
