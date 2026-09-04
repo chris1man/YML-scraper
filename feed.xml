@@ -47,13 +47,13 @@
         <description>Букет на 1 сентября №57. Свежие цветы с доставкой по Томску.</description>
       </offer>
       <offer id="5" available="true">
-        <name>Букет из подсолнуха &quot;Медовый лучик&quot;</name>
+        <name>Букет из 3 красных протей с эвкалиптом</name>
         <price>1</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
-        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/27/IMG_8582.jpg.webp</picture>
-        <url>https://maki-tomsk.ru/cvety/bukety-iz-podsolnuhov/buket-iz-podsolnuha-medovyy-luchik/</url>
-        <description>Букет из подсолнуха &quot;Медовый лучик&quot;. Свежие цветы с доставкой по Томску.</description>
+        <picture>https://maki-tomsk.ru/images/thumbnails/400/533/detailed/31/IMG_5111.jpg.webp</picture>
+        <url>https://maki-tomsk.ru/cvety/buket-i-protei/buket-iz-3-krasnyh-protey-s-evkaliptom/</url>
+        <description>Букет из 3 красных протей с эвкалиптом. Свежие цветы с доставкой по Томску.</description>
       </offer>
       <offer id="6" available="true">
         <name>Охапка подсолнухов</name>
